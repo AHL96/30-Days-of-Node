@@ -9,8 +9,8 @@ I most likely wont stick to their regiment. I will move at my own pass but do no
 
 - [x] Day one - servers
 - [x] Day two - file system
-- [ ] Day three - Regular expressions
-- [ ] Day four - Console module
+- [x] Day three - Regular expressions
+- [x] Day four - Console module
 - [ ] Day five - errors
 - [ ] Day six - array methods
 - [ ] Day seven - NPM
