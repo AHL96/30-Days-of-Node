@@ -11,8 +11,8 @@ I most likely wont stick to their regiment. I will move at my own pass but do no
 - [x] Day two - file system
 - [x] Day three - Regular expressions
 - [x] Day four - Console module
-- [ ] Day five - errors
-- [ ] Day six - array methods
+- [x] Day five - errors
+- [x] Day six - array methods
 - [ ] Day seven - NPM
 - [ ] Day eight - Publishing packages on NPM
 - [ ] Day nine - Hashing and HMAC
