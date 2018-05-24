@@ -13,7 +13,7 @@ I most likely wont stick to their regiment. I will move at my own pass but do no
 - [x] Day four - Console module
 - [x] Day five - errors
 - [x] Day six - array methods
-- [ ] Day seven - NPM
+- [x] Day seven - NPM **no coding involved**
 - [ ] Day eight - Publishing packages on NPM
 - [ ] Day nine - Hashing and HMAC
 - [ ] Day ten - Encryption & Decryption
