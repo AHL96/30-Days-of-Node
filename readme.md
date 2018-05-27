@@ -14,9 +14,9 @@ I most likely wont stick to their regiment. I will move at my own pass but do no
 - [x] Day five - errors
 - [x] Day six - array methods
 - [x] Day seven - NPM **no coding involved**
-- [x] Day eight - Publishing packages on NPM
+- [x] Day eight - Publishing packages on NPM **no coding involved**
 - [x] Day nine - Hashing and HMAC
-- [ ] Day ten - Encryption & Decryption
+- [x] Day ten - Encryption & Decryption
 - [ ] Day eleven - Express Framework
 - [ ] Day twelve - CRUD in MongoDB
 - [ ] Day thirteen - sign up form
