@@ -17,8 +17,8 @@ I most likely wont stick to their regiment. I will move at my own pass but do no
 - [x] Day eight - Publishing packages on NPM **no coding involved**
 - [x] Day nine - Hashing and HMAC
 - [x] Day ten - Encryption & Decryption
-- [ ] Day eleven - Express Framework
-- [ ] Day twelve - CRUD in MongoDB
+- [x] Day eleven - Express Framework
+- [ ] Day twelve - CRUD in MongoDB **Gave me a bunch of problems. Think I'm going to put my energy else where for a little**
 - [ ] Day thirteen - sign up form
 - [ ] Day fourteen - Intro to socket.io
 - [ ] Day fifteen - Streams
