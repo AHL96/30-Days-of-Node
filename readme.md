@@ -22,7 +22,7 @@ I most likely wont stick to their regiment. I will move at my own pass but do no
 - [x] Day twelve - CRUD in MongoDB
 [addition learning](https://www.nodejsera.com/library/nodejs-mongodb/create-database-in-mongodb-using-nodejs.html)
 - [x] Day thirteen - sign up form
-- [ ] Day fourteen - Intro to socket.io
+- [x] Day fourteen - Intro to socket.io
 - [ ] Day fifteen - Streams
 - [ ] Day sixteen - Zlib module
 - [ ] Day seventeen - CRUD in MySQL
