@@ -19,9 +19,9 @@ I most likely wont stick to their regiment. I will move at my own pass but do no
 - [x] Day nine - Hashing and HMAC
 - [x] Day ten - Encryption & Decryption
 - [x] Day eleven - Express Framework
-- [ ] Day twelve - CRUD in MongoDB
+- [x] Day twelve - CRUD in MongoDB
 [addition learning](https://www.nodejsera.com/library/nodejs-mongodb/create-database-in-mongodb-using-nodejs.html)
-- [ ] Day thirteen - sign up form
+- [x] Day thirteen - sign up form
 - [ ] Day fourteen - Intro to socket.io
 - [ ] Day fifteen - Streams
 - [ ] Day sixteen - Zlib module
