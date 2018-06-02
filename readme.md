@@ -23,8 +23,8 @@ I most likely wont stick to their regiment. I will move at my own pass but do no
 [addition learning](https://www.nodejsera.com/library/nodejs-mongodb/create-database-in-mongodb-using-nodejs.html)
 - [x] Day thirteen - sign up form
 - [x] Day fourteen - Intro to socket.io
-- [ ] Day fifteen - Streams
-- [ ] Day sixteen - Zlib module
+- [x] Day fifteen - Streams
+- [x] Day sixteen - Zlib module
 - [ ] Day seventeen - CRUD in MySQL
 - [ ] Day eighteen - Concepts of callbacks
 - [ ] Day nineteen - Query String
