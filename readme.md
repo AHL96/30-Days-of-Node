@@ -25,7 +25,7 @@ I most likely wont stick to their regiment. I will move at my own pass but do no
 - [x] Day fourteen - Intro to socket.io
 - [x] Day fifteen - Streams
 - [x] Day sixteen - Zlib module
-- [ ] Day seventeen - CRUD in MySQL
+- [x] Day seventeen - CRUD in MySQL
 - [ ] Day eighteen - Concepts of callbacks
 - [ ] Day nineteen - Query String
 - [ ] Day twenty - Timers
