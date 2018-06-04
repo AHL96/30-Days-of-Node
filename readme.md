@@ -26,7 +26,7 @@ I most likely wont stick to their regiment. I will move at my own pass but do no
 - [x] Day fifteen - Streams
 - [x] Day sixteen - Zlib module
 - [x] Day seventeen - CRUD in MySQL
-- [ ] Day eighteen - Concepts of callbacks
+- [x] Day eighteen - Concepts of callbacks
 - [ ] Day nineteen - Query String
 - [ ] Day twenty - Timers
 - [ ] Day twenty one - Buffers
