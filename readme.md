@@ -30,7 +30,7 @@ I most likely wont stick to their regiment. I will move at my own pass but do no
 - [x] Day nineteen - Query String
 - [x] Day twenty - Timers
 - [x] Day twenty one - Buffers
-- [ ] Day twenty two - String decoder
+- [x] Day twenty two - String decoder
 - [ ] Day twenty three - Debuggers
 - [ ] Day twenty four - Child processes
 - [ ] Day twenty five - clusters
