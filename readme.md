@@ -29,7 +29,7 @@ I most likely wont stick to their regiment. I will move at my own pass but do no
 - [x] Day eighteen - Concepts of callbacks
 - [x] Day nineteen - Query String
 - [x] Day twenty - Timers
-- [ ] Day twenty one - Buffers
+- [x] Day twenty one - Buffers
 - [ ] Day twenty two - String decoder
 - [ ] Day twenty three - Debuggers
 - [ ] Day twenty four - Child processes
