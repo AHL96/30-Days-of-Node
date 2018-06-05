@@ -31,7 +31,7 @@ I most likely wont stick to their regiment. I will move at my own pass but do no
 - [x] Day twenty - Timers
 - [x] Day twenty one - Buffers
 - [x] Day twenty two - String decoder
-- [ ] Day twenty three - Debuggers
+- [x] Day twenty three - Debuggers **no coding involved**
 - [ ] Day twenty four - Child processes
 - [ ] Day twenty five - clusters
 - [ ] Day twenty six - OS module
