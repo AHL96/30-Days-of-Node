@@ -33,7 +33,7 @@ I most likely wont stick to their regiment. I will move at my own pass but do no
 - [x] Day twenty two - String decoder
 - [x] Day twenty three - Debuggers **no coding involved**
 - [x] Day twenty four - Child processes
-- [ ] Day twenty five - clusters
+- [x] Day twenty five - clusters
 - [ ] Day twenty six - OS module
 - [ ] Day twenty seven - Assert module
 - [ ] Day twenty eight - Getting tweets
