@@ -36,6 +36,6 @@ I most likely wont stick to their regiment. I will move at my own pass but do no
 - [x] Day twenty five - clusters
 - [x] Day twenty six - OS module
 - [x] Day twenty seven - Assert module
-- [ ] Day twenty eight - Getting tweets
+- [x] Day twenty eight - Getting tweets
 - [ ] Day twenty nine - Uploading file to dropbox
 - [ ] Day thirty - Github API
