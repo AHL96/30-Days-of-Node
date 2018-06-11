@@ -38,4 +38,4 @@ I most likely wont stick to their regiment. I will move at my own pass but do no
 - [x] Day twenty seven - Assert module
 - [x] Day twenty eight - Getting tweets
 - [x] Day twenty nine - Uploading file to dropbox
-- [ ] Day thirty - Github API
+- [x] Day thirty - Github API
