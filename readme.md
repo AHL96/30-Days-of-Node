@@ -39,3 +39,7 @@ I most likely wont stick to their regiment. I will move at my own pass but do no
 - [x] Day twenty eight - Getting tweets
 - [x] Day twenty nine - Uploading file to dropbox
 - [x] Day thirty - Github API
+
+
+
+I finished all the challenges. It was fun and i feel like i learned about some new things. For the most part though, this was just a way to know what is out there to use. To fully understand these tools greater study would be necessary.
